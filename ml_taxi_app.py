@@ -61,4 +61,4 @@ hour = st.number_input(
 if st.button("Predict Fare"):
     input_data = np.array([[distance]])
     prediction = model.predict(input_data)
-    st.success(f"🚖 Estimated Fare: {prediction[0]:.2f}")32    
+    st.success(f"🚖 Estimated Fare: {prediction[0]:.2f}")  
