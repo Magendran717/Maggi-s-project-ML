@@ -2,8 +2,5 @@ pandas
 numpy
 scikit-learn
 streamlit
-matplotlib
 seaborn
-altair5
-standard-imghdr
 pyarrow
